@@ -1,6 +1,6 @@
 # Hi, I'm Hassan - Data Analyst & Aspiring Data Scientist/Engineer
 
-I enjoy working with data - cleaning it, modeling it, understanding it, and turning it into something meaningful. My background blends Python, SQL, statistics, and analytical workflows with real-world experience in SEO analytics and AI data annotation.
+I enjoy working with data - cleaning, modeling, understanding, and turning it into something meaningful. My background blends Python, SQL, statistics, and analytical workflows with real-world experience in SEO analytics and AI data annotation.
 
 I love building end‑to‑end data pipelines, running statistical experiments, and creating clean, reproducible project structures that reflect industry standards.
 
@@ -77,4 +77,5 @@ Scientific modeling of tree stem volumes using species‑specific allometric equ
 ## Connect With Me
 
 **LinkedIn:** https://www.linkedin.com/in/hassanakhter122/ 
+
 **GitHub:** You’re already here — feel free to explore my repositories!  
