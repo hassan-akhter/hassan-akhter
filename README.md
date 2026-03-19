@@ -1,81 +1,124 @@
-# Hi, I'm Hassan - Data Analyst & Aspiring Data Scientist/Engineer
+<h1 align="center">Hi, I'm Hassan 👋</h1>
+<h3 align="center">Data Analyst · Aspiring Data Scientist & Engineer · Warsaw, Poland</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassanakhter122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/hassan-akhter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
-I enjoy working with data - cleaning, modeling, understanding, and turning it into something meaningful. My background blends Python, SQL, statistics, and analytical workflows with real-world experience in SEO analytics and AI data annotation.
+I turn raw, messy data into clean, meaningful insights. My work spans end-to-end pipelines, statistical experiments, geospatial analysis, and machine learning built with Python, SQL, and a focus on reproducibility.
 
-I love building end‑to‑end data pipelines, running statistical experiments, and creating clean, reproducible project structures that reflect industry standards.
+Currently a Master's student in **Forest Information Technology** (Germany & Poland), with real-world experience in **SEO analytics** and **AI data annotation**.
 
 
-##  Technical Skills
+## 🛠 Technical Skills
+
+**Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Libraries & Frameworks**
+
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Tools & Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Domains:** Job market analytics, e‑commerce, SEO, environmental datasets  
-**Data Engineering:** ETL/ELT workflows, SQLAlchemy, schema design  
+**Domains:** E-commerce · Geospatial · Job Market Analytics · Environmental Data
 
-
-##  Featured Projects
-
-### A/B Test Analysis — Landing Page Conversion  
-[![Repo](https://img.shields.io/badge/🔗%20View%20Project-000?style=for-the-badge)](https://github.com/hassan-akhter/ab_testing_analysis)
-
-Statistical evaluation of a 290K‑row experiment using Python + statsmodels.  
-- Cleaned and validated experiment data  
-- Ran two‑proportion z‑test, confidence intervals, and power analysis  
-- Found no statistically significant lift (p = 0.1897) and provided evidence‑based recommendations  
+**Data Engineering:** ETL/ELT pipelines · Schema design · SQLAlchemy · Data validation
 
 
-### Job Market Analysis Pipeline (Python + SQL + PostgreSQL)  
-[![Repo](https://img.shields.io/badge/🔗%20View%20Project-000?style=for-the-badge)](https://github.com/hassan-akhter/job_market_analysis_pipeline)
+## 🚀 Featured Projects
 
-End‑to‑end ELT pipeline analyzing 25K+ job postings (2017–2021).  
-- Designed schema, indexes, and SQL views  
-- Loaded and transformed data using pandas + SQLAlchemy  
-- Identified **172.4% growth** in data‑related roles and top emerging skills  
+### 🗽 NYC Taxi Trip Analysis: ML + Geospatial
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/nyc-taxi-trip-analysis)
 
+End-to-end data science project on **7.4 million** NYC yellow taxi trips.
 
-### E‑commerce Data Cleaning Pipeline  
-[![Repo](https://img.shields.io/badge/🔗%20View%20Project-000?style=for-the-badge)](https://github.com/hassan-akhter/ecommerce-data-cleaning)
-
-Robust cleaning workflow for a messy 525‑row dataset.  
-- Standardized 11 inconsistent columns  
-- Applied regex validation, IQR outlier detection, and currency normalization  
-- Delivered a clean, analysis‑ready dataset  
+- Performed full EDA: fare distributions, demand heatmaps, time-of-day patterns
+- Built geospatial visualizations with **GeoPandas** across NYC boroughs
+- Trained ML models with **Scikit-Learn** to predict tip amounts
+- `Python` · `GeoPandas` · `Scikit-Learn` · `Jupyter`
 
 
-### Haselburg Marteloscope Stem Volume Modeling  
-[![Repo](https://img.shields.io/badge/🔗%20View%20Project-000?style=for-the-badge)](https://github.com/hassan-akhter/tree_volume_analysis)
+### 🛒 Brazilian E-Commerce: Data Engineering (Olist Dataset)
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/brazilian-ecommerce-project)
 
-Scientific modeling of tree stem volumes using species‑specific allometric equations.  
-- Processed 312 trees across 8 species  
-- Achieved **R² = 0.9317** and **MAE = 0.1659 m³**  
-- Generated diagnostic plots and validated predictions  
+Production-style ETL pipeline on a real multi-table e-commerce dataset.
 
-
-## Certifications
-
-- Statistics Foundations Professional Certificate — Wolfram Research  
-- Excel Data Analysis — LinkedIn Learning  
-- Statistics Foundations 4: Advanced Topics — LinkedIn Learning  
-- Excel Statistics Essential Training 2 — LinkedIn Learning  
+- Designed relational schema and ingested data with **Python + SQLAlchemy**
+- Wrote **17 analytical SQL queries** covering revenue, delivery, and customer behaviour
+- Built visualizations to communicate business insights
+- `Python` · `PostgreSQL` · `SQLAlchemy` · `Pandas`
 
 
-## About Me
+### ☕ Coffee Shop Sales Analysis: Multi-Country BI
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/coffee_shop_sales_analysis_2025)
 
-- Currently based in Warsaw, Poland  
-- Master’s student in Forest Information Technology (Germany + Poland)  
-- Passionate about data engineering, statistical modeling, and clean, reproducible workflows  
-- Always learning, always improving  
+Full-stack sales analytics across **15 stores in 5 countries**.
+
+- Modelled sales data in **PostgreSQL** with optimised query design
+- Built interactive **Plotly** dashboards for revenue trends and product performance
+- Identified top-performing locations and seasonal demand patterns
+- `Python` · `PostgreSQL` · `Plotly`
 
 
-## Connect With Me
+### 🧪 A/B Test Analysis: Landing Page Conversion
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/ab_testing_analysis)
 
-**LinkedIn:** https://www.linkedin.com/in/hassanakhter122/ 
+Statistical evaluation of a **290K-row** experiment using Python + Statsmodels.
 
-**GitHub:** You’re already here — feel free to explore my repositories!  
+- Ran two-proportion z-test, confidence intervals, and power analysis
+- Found no statistically significant lift (p = 0.1897) — evidence-based no-go recommendation
+- `Python` · `Statsmodels` · `SciPy`
+
+
+### 📊 Job Market Analysis Pipeline
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/job_market_analysis_pipeline)
+
+End-to-end ELT pipeline analyzing **25,000+ job postings** (2017–2021).
+
+- Designed schema, indexes, and SQL views from scratch
+- Identified **172.4% growth** in data-related roles and top emerging skills
+- `Python` · `PostgreSQL` · `SQLAlchemy` · `Pandas`
+
+
+### 🌳 Tree Stem Volume Modeling: Scientific ML
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/tree_volume_analysis)
+
+Species-specific allometric modeling across **312 trees, 8 species** (Haselburg Marteloscope).
+
+- Implemented Zianis et al. (2005) equations in Python
+- Achieved **R² = 0.9317** and **MAE = 0.1659 m³**
+- Generated diagnostic plots and validated predictions
+- `Python` · `Pandas` · `Matplotlib`
+
+
+## 📜 Certifications
+
+- **Statistics Foundations Professional Certificate** — Wolfram Research
+- **Statistics Foundations 4: Advanced Topics** — LinkedIn Learning
+- **Excel Data Analysis** — LinkedIn Learning
+- **Excel Statistics Essential Training 2** — LinkedIn Learning
+
+## 🔭 Currently Working On
+- Building more end-to-end projects in data engineering & ML
+- Deepening skills in cloud tools (BigQuery, dbt, Airflow)
+- Open to Data Analyst / Data Engineer / Data Scientist internships
+
+<p align="center">
+  <i>"Turning raw data into clean, meaningful insights."</i>
+</p>
