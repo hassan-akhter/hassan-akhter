@@ -65,13 +65,13 @@ Production-style ETL pipeline on a real multi-table e-commerce dataset.
 - `Python` · `PostgreSQL` · `SQLAlchemy` · `Pandas`
 
 
-### ☕ Coffee Shop Sales Analysis: Multi-Country BI
+### ☕ Coffee Shop Sales Analysis: Multi-Country
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/coffee_shop_sales_analysis_2025)
 
 Full-stack sales analytics across **15 stores in 5 countries**.
 
 - Modelled sales data in **PostgreSQL** with optimised query design
-- Built interactive **Plotly** dashboards for revenue trends and product performance
+- Built interactive **Plotly** charts for revenue trends and product performance
 - Identified top-performing locations and seasonal demand patterns
 - `Python` · `PostgreSQL` · `Plotly`
 
