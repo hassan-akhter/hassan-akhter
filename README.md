@@ -111,6 +111,7 @@ Species-specific allometric modeling across **312 trees, 8 species** (Haselburg 
 
 - **Statistics Foundations Professional Certificate** — Wolfram Research
 - **Statistics Foundations 4: Advanced Topics** — LinkedIn Learning
+- **Excel Business Intelligence: Power Pivot, DAX, Data Modeling Certificate** — Project Management Institute (PMI) & LinkedIn Learning
 - **Excel Data Analysis** — LinkedIn Learning
 - **Excel Statistics Essential Training 2** — LinkedIn Learning
 
