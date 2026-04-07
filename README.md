@@ -12,15 +12,13 @@ Currently a Master's student in **Forest Information Technology** (Germany & Pol
 
 ## 🛠 Technical Skills
 
-**Languages & Databases**
-
+### **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Libraries & Frameworks**
-
+### **Libraries & Frameworks**
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
@@ -29,16 +27,19 @@ Currently a Master's student in **Forest Information Technology** (Germany & Pol
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-**Tools & Workflow**
-
+### **Data Engineering & Workflow**
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Domains:** E-commerce · Geospatial · Job Market Analytics · Environmental Data
+### **Domains**
+E‑commerce · Geospatial · Job Market Analytics · Environmental Data · Flight Operations
 
-**Data Engineering:** ETL/ELT pipelines · Schema design · SQLAlchemy · Data validation
+### **Core Competencies**
+ETL/ELT pipelines · Data modeling (Star Schema) · API ingestion · Data validation · Dashboarding · Statistical analysis · Machine learning workflows
 
 
 ## 🚀 Featured Projects
