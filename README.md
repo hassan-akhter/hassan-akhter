@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
-<h3 align="center">Data Analyst · Aspiring Data Scientist & Engineer · Warsaw, Poland</h3>
+<h3 align="center">Data Analyst · Aspiring Data Engineer & Scientist · Based in Warsaw, Poland</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanakhter122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hassan-akhter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-I turn raw, messy data into clean, meaningful insights. My work spans end-to-end pipelines, statistical experiments, geospatial analysis, and machine learning built with Python, SQL, and a focus on reproducibility.
+I turn raw, messy data into clean, reliable, and decision-ready insights.
 
-Currently a Master's student in **Forest Information Technology** (Germany & Poland), with real-world experience in **SEO analytics** and **AI data annotation**.
+My work spans **end-to-end data pipelines**, **statistical analysis**, **geospatial analytics**, and **machine learning**, with a strong focus on reproducibility and clear communication.
+
+I'm currently pursuing a Master's in **Forest Information Technology** (Germany & Poland), and I’ve gained hands-on experience in **SEO analytics**, **AI data annotation**, and now **data engineering** through production-style personal projects.
+
+I enjoy building things that move data from *“just collected”* to *“ready for action.”*
 
 
 ## 🛠 Technical Skills
@@ -129,8 +134,10 @@ Species-specific allometric modeling across **312 trees, 8 species** (Haselburg 
 - **Excel Statistics Essential Training 2** — LinkedIn Learning
 
 ## 🔭 Currently Working On
-- Building more end-to-end projects in data engineering & ML
-- Deepening skills in cloud tools (BigQuery, dbt, Airflow)
+- Building production-style data engineering projects (APIs → ETL → SQL → BI)
+- Expanding skills in orchestration and containerization (Airflow, Docker)
+- Learning cloud data tools (BigQuery, dbt, Azure Data Studio)
+- Developing real-time and batch pipelines for analytics use cases
 - Open to Data Analyst / Data Engineer / Data Scientist internships
 
 <p align="center">
