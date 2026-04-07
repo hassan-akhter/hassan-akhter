@@ -43,6 +43,18 @@ Currently a Master's student in **Forest Information Technology** (Germany & Pol
 
 ## 🚀 Featured Projects
 
+### ✈️ Flight Operations Analytics: End‑to‑End Data Pipeline
+[![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/flight-operations-data-engineering)
+
+A complete data engineering pipeline built from scratch using real flight data.
+
+- Ingested real-time flight data from the **AviationStack API**
+- Designed a **Bronze → Silver → Gold** architecture in PostgreSQL
+- Built a **star schema** (dim_airline, dim_airport, dim_time, fact_flight)
+- Created reusable **KPI SQL views** for delays, cancellations, and route traffic
+- Developed a **3‑page Power BI dashboard** for operational insights  
+- `Python` · `PostgreSQL` · `Power BI` · `SQL` · `ETL`
+
 ### 🗽 NYC Taxi Trip Analysis: ML + Geospatial
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/nyc-taxi-trip-analysis)
 
