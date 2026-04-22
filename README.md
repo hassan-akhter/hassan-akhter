@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
-<h3 align="center">Data Analyst · Aspiring Data Engineer · Based in Warsaw, Poland</h3>
+<h3 align="center">Data Analyst · Aspiring Data Engineer · Warsaw, Poland</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanakhter122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
