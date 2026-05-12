@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
-<h3 align="center">Data Analyst · Aspiring Data Engineer · Warsaw, Poland</h3>
+<h3 align="center">Data Engineering Intern & Analytics Developer · Berlin, Germany</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanakhter122/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hassan-akhter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-I turn raw, messy data into clean, reliable, and decision-ready insights.
+I build end-to-end data systems from ETL pipelines to analytical dashboards.
 
-My work spans **end-to-end data pipelines**, **statistical analysis**, **geospatial analytics**, and **machine learning**, with a strong focus on reproducibility and clear communication.
+My work spans real projects in flight operations, e-commerce analytics, job market data, and predictive modeling.
 
-I'm currently pursuing a Master's in **Forest Information Technology** (Germany & Poland), and I’ve gained hands-on experience in **SEO analytics**, **AI data annotation**, and now **data engineering** through production-style personal projects.
+**My toolkit:** Python · SQL · PostgreSQL · Airflow · Docker · dbt · Snowflake · Power BI
 
-I enjoy building things that move data from *“just collected”* to *“ready for action.”*
+Master's student in Forest IT (Germany & Poland) with a focus on reproducible, well-documented data infrastructure. Seeking my first professional data internship to apply these skills at scale.
+
+**Explore my portfolio projects** below each demonstrates a different aspect of the data pipeline.
 
 
 ## 🛠 Technical Skills
