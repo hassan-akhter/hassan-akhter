@@ -106,7 +106,7 @@ Statistical evaluation of a **290K-row** experiment using Python + Statsmodels.
 - `Python` · `Statsmodels` · `SciPy`
 
 
-### 📊 Job Market Analysis Pipeline
+### 📊 Job Market Analysis
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/job_market_analysis_pipeline)
 
 End-to-end ELT pipeline analyzing **25,000+ job postings** (2017–2021).
