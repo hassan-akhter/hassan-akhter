@@ -109,12 +109,13 @@ Statistical evaluation of a **290K-row** experiment using Python + Statsmodels.
 ### 📊 Job Market Analysis
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/job_market_analysis_pipeline)
 
-End-to-end ELT pipeline analyzing **25,000+ job postings** (2017–2021).
+End-to-end ELT pipeline analyzing 25,000+ job postings (2017–2021) across 6 normalized PostgreSQL tables.
 
-- Designed schema, indexes, and SQL views from scratch
-- Identified **172.4% growth** in data-related roles and top emerging skills
-- `Python` · `PostgreSQL` · `SQLAlchemy` · `Pandas`
+- Uncovered **+165.8% market growth** with a **+65.9% COVID spike in 2020** driving digital hiring
+- Identified **Cloud · SQL · Python** as top 3 skills, covering 15.5% of all job requirements
+- Built 8 analytical charts, 10 SQL queries, and 5 reusable views from scratch
 
+`Python` · `PostgreSQL` · `SQLAlchemy` · `pandas` · `matplotlib` · `seaborn`
 
 ### 🌳 Tree Stem Volume Modeling: Scientific ML
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/tree_volume_analysis)
