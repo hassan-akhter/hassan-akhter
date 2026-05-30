@@ -104,12 +104,14 @@ End-to-end sales analytics pipeline for a fictional coffee chain across Poland, 
 ### 🧪 A/B Test Analysis: Landing Page Conversion
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/ab_testing_analysis)
 
-Statistical evaluation of a **290K-row** experiment using Python + Statsmodels.
+Statistical evaluation of a 290,000-row experiment to determine whether a new landing page drives higher conversion — with a data-backed recommendation not to launch.
 
-- Ran two-proportion z-test, confidence intervals, and power analysis
-- Found no statistically significant lift (p = 0.1897) — evidence-based no-go recommendation
-- `Python` · `Statsmodels` · `SciPy`
+- Cleaned **290,000+ rows** — removed mismatched group assignments and duplicate user records
+- Ran a **two-proportion z-test**, 95% CI, and power analysis — p-value of **0.1897** confirms the 0.16% difference is noise, not signal
+- Confirmed result reliability: **145K users per group** gives ≥0.80 statistical power, enough to detect even a +0.5% lift — the sample size is not the problem
+- Delivered a clear **evidence-based no-launch recommendation** — saved the company from shipping a change with no proven benefit
 
+`Python` · `pandas` · `statsmodels` · `SciPy` · `matplotlib`
 
 ### 📊 Job Market Analysis
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/job_market_analysis_pipeline)
