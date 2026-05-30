@@ -81,10 +81,8 @@ End-to-end data science project analyzing 7,469,779 NYC yellow taxi trips (Janua
 
 Production-style ETL pipeline on 100,000+ orders across 9 normalized PostgreSQL tables, from raw CSV ingestion to SQL analytics and visualizations.
 
-- Cleaned **1M+ rows** across 9 tables — fixed 23 illogical delivery dates, removed 261,858 
-  duplicate geolocations, validated referential integrity with **zero orphans** across all joins
-- Discovered **8× revenue growth** (R$127K → R$1.1M in 12 months) and a **96.9% single-purchase 
-  customer rate** signaling a retention problem
+- Cleaned **1M+ rows** across 9 tables — fixed 23 illogical delivery dates, removed 261,858 duplicate geolocations, validated referential integrity with **zero orphans** across all joins
+- Discovered **8× revenue growth** (R$127K → R$1.1M in 12 months) and a **96.9% single-purchase customer rate** signaling a retention problem
 - Wrote **16 SQL queries** using window functions, RFM scoring, and RANK() for seller/customer analysis
 - Generated **13 charts** covering revenue trends, late delivery by state, payment methods, and geo distribution
 
@@ -93,12 +91,14 @@ Production-style ETL pipeline on 100,000+ orders across 9 normalized PostgreSQL 
 ### ☕ Coffee Shop Sales Analysis: Multi-Country
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/coffee_shop_sales_analysis_2025)
 
-Full-stack sales analytics across **15 stores in 5 countries**.
+End-to-end sales analytics pipeline for a fictional coffee chain across Poland, UK, Germany, France, and Spain — from PostgreSQL schema design to 14 interactive Plotly charts.
 
-- Modelled sales data in **PostgreSQL** with optimised query design
-- Built interactive **Plotly** charts for revenue trends and product performance
-- Identified top-performing locations and seasonal demand patterns
-- `Python` · `PostgreSQL` · `Plotly`
+- Designed a **5-table PostgreSQL schema** with indexed foreign keys and optimized queries across 15 SQL analytical queries
+- Found **Manchester as the top-revenue store**, **February as the weakest month** chain-wide, and **Beans as the #1 revenue category** by a significant margin
+- Identified **Bronze tier customers drive majority of revenue** by volume despite lower individual spend — a clear retention and upsell opportunity
+- Generated **14 charts** covering daily trends, seasonal demand (Pumpkin Spice Latte), loyalty tier performance, and best-selling product per country
+
+`Python` · `PostgreSQL` · `pandas` · `Plotly` · `SQL`
 
 
 ### 🧪 A/B Test Analysis: Landing Page Conversion
