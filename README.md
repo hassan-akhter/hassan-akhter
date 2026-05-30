@@ -142,13 +142,6 @@ Statistical evaluation of a 290,000-row experiment to determine whether a new la
 
 ---
 
-## 🏆 Achievement
-
-**Erasmus+ Scholarship** — European Commission (2025)  
-Awarded for academic excellence in the dual-degree international programme (HNEE × SGGW).
-
----
-
 <p align="center">
   <i>Building clean, reproducible data pipelines — one project at a time.</i>
 </p>
