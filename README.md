@@ -79,13 +79,16 @@ End-to-end data science project analyzing 7,469,779 NYC yellow taxi trips (Janua
 ### 🛒 Brazilian E-Commerce: Data Engineering (Olist Dataset)
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/brazilian-ecommerce-project)
 
-Production-style ETL pipeline on a real multi-table e-commerce dataset.
+Production-style ETL pipeline on 100,000+ orders across 9 normalized PostgreSQL tables, from raw CSV ingestion to SQL analytics and visualizations.
 
-- Designed relational schema and ingested data with **Python + SQLAlchemy**
-- Wrote **17 analytical SQL queries** covering revenue, delivery, and customer behaviour
-- Built visualizations to communicate business insights
-- `Python` · `PostgreSQL` · `SQLAlchemy` · `Pandas`
+- Cleaned **1M+ rows** across 9 tables — fixed 23 illogical delivery dates, removed 261,858 
+  duplicate geolocations, validated referential integrity with **zero orphans** across all joins
+- Discovered **8× revenue growth** (R$127K → R$1.1M in 12 months) and a **96.9% single-purchase 
+  customer rate** signaling a retention problem
+- Wrote **16 SQL queries** using window functions, RFM scoring, and RANK() for seller/customer analysis
+- Generated **13 charts** covering revenue trends, late delivery by state, payment methods, and geo distribution
 
+`Python` · `PostgreSQL` · `SQLAlchemy` · `pandas` · `matplotlib` · `seaborn`
 
 ### ☕ Coffee Shop Sales Analysis: Multi-Country
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/coffee_shop_sales_analysis_2025)
