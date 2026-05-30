@@ -54,14 +54,15 @@ ETL/ELT pipelines · Data modeling (Star Schema) · API ingestion · Data valida
 ### ✈️ Flight Operations Analytics: End‑to‑End Data Pipeline
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/flight-operations-data-engineering)
 
-A complete data engineering pipeline built from scratch using real flight data.
+End-to-end ETL pipeline ingesting real-time flight data from the AviationStack API into a multi-layer PostgreSQL architecture, ending in an interactive Power BI dashboard.
 
-- Ingested real-time flight data from the **AviationStack API**
-- Designed a **Bronze → Silver → Gold** architecture in PostgreSQL
-- Built a **star schema** (dim_airline, dim_airport, dim_time, fact_flight)
-- Created reusable **KPI SQL views** for delays, cancellations, and route traffic
-- Developed a **3‑page Power BI dashboard** for operational insights  
-- `Python` · `PostgreSQL` · `Power BI` · `SQL` · `ETL`
+- Processed **16,273 flights** across **193 airlines** and **176 airports** in a single pipeline run
+- Designed **Bronze → Silver → Gold** medallion architecture with a full star schema
+  (`dim_airline`, `dim_airport`, `dim_time`, `fact_flight`)
+- Built **6 reusable KPI SQL views** covering on-time rate, avg delay, cancellations, and busiest routes
+- Delivered a **3-page Power BI dashboard** with DAX measures, slicers, and route-level filtering
+
+`Python` · `PostgreSQL` · `SQL` · `Power BI` · `DAX` · `ETL`
 
 ### 🗽 NYC Taxi Trip Analysis: ML + Geospatial
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/nyc-taxi-trip-analysis)
