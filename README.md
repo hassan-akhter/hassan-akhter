@@ -67,13 +67,14 @@ End-to-end ETL pipeline ingesting real-time flight data from the AviationStack A
 ### 🗽 NYC Taxi Trip Analysis: ML + Geospatial
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/nyc-taxi-trip-analysis)
 
-End-to-end data science project on **7.4 million** NYC yellow taxi trips.
+End-to-end data science project analyzing 7,469,779 NYC yellow taxi trips (January 2019) across data engineering, geospatial analysis, and machine learning.
 
-- Performed full EDA: fare distributions, demand heatmaps, time-of-day patterns
-- Built geospatial visualizations with **GeoPandas** across NYC boroughs
-- Trained ML models with **Scikit-Learn** to predict tip amounts
-- `Python` · `GeoPandas` · `Scikit-Learn` · `Jupyter`
+- Cleaned **198,013 rows** (2.6%) with validated fare ranges, coordinates, and trip durations
+- Mapped pickup hotspots across **263 NYC taxi zones** — Manhattan accounts for 90%+ of all trips
+- Discovered demand peaks at **8–9 AM and 6–8 PM** weekdays; Fridays and Saturdays busiest overall
+- Trained a **Random Forest (100 trees)** to predict tip amounts — MAE ~$1.0–1.5, top feature: `fare_amount`
 
+`Python` · `pandas` · `GeoPandas` · `Scikit-Learn` · `matplotlib`
 
 ### 🛒 Brazilian E-Commerce: Data Engineering (Olist Dataset)
 [![Repo](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/hassan-akhter/brazilian-ecommerce-project)
