@@ -15,7 +15,7 @@
 
 ---
 
-MSc Forest Information Technology student (HNEE Germany × SGGW Poland · **Erasmus+ Scholar**) building end-to-end data pipelines from API ingestion to PostgreSQL schemas to Power BI dashboards.
+MSc Forest Information Technology student (HNEE Germany × SGGW Poland) building end-to-end data pipelines from API ingestion to PostgreSQL schemas to Power BI dashboards.
 
 **9 public projects** across flight operations, e-commerce, job market analytics, geospatial analysis, and statistical testing. Seeking a **Data Engineering or Analytics internship starting July 2026** in Europe or remote.
 
