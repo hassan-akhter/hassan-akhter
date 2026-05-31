@@ -52,6 +52,20 @@ MSc Forest Information Technology student (HNEE Germany × SGGW Poland) building
 
 ## 🚀 Featured Projects
 
+### 🏭 AdventureWorks ETL Pipeline
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/hassan-akhter/adventureworks-airflow-etl)
+
+End-to-end ETL pipeline loading the AdventureWorks dataset from raw CSV files into a normalised PostgreSQL schema, orchestrated by Apache Airflow in Docker.
+
+- Processed **213K rows across 10 tables** (121K order lines, 31K orders, 20K customers) in a single DAG run
+- Built a **custom CSV parser** to handle non-standard `+|` / `&|` delimiters in source files standard parsers cannot read
+- Designed **idempotent TRUNCATE + bulk-load** using `psycopg2 execute_values` in FK dependency order — safe to re-trigger daily
+- Wrote **10 analytics SQL queries** covering revenue trends, top products, customer lifetime value, and geographic sales distribution
+
+`Python` · `PostgreSQL` · `Apache Airflow` · `Docker` · `psycopg2` · `pandas` · `SQL`
+
+---
+
 ### ✈️ Flight Operations Analytics Pipeline
 [![Repo](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github&logoColor=white)](https://github.com/hassan-akhter/flight-operations-data-engineering)
 
