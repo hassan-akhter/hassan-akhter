@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hassan 👋</h1>
-<h3 align="center">Data Engineering & Analytics Intern · Warsaw / Berlin · Open to Relocation</h3>
+<h3 align="center">Data Engineering & Analytics Intern · Berlin · Open to Relocation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanakhter122/">
